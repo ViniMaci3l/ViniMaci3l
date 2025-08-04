@@ -1,7 +1,7 @@
 ## Prazer! Sou o Vinicius Alves Maciel, estudante de programação e liderança!
 
 -📖 Curso engenharia de software na inteli (1 ano)
-- 🌱 Estudando Java script, Css, Html
+- 🌱 Estudando Java script, Css, Html, Python
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
